@@ -12,3 +12,6 @@ python-language-server = {extras = ["all"], version = "*"}
 
 [requires]
 python_version = "3.6"
+
+[scripts]
+main = "python main.py"
