@@ -1,4 +1,4 @@
-# vispy_conways_game_of_life
+# tech_demo_vispy_conways_game_of_life
 conway's game of life in vispy
 
 # run istructions
